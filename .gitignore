@@ -1,8 +1,8 @@
 # Visual Code
 PM.Jellimix/.vs
-PM.Jellimix/PM.ApplicationCore/bin
-PM.Jellimix/PM.ApplicationCore/obj
-PM.Jellimix/PM.Infrastructure/bin
-PM.Jellimix/PM.Infrastructure/obj
-PM.Jellimix/PM.Jellimix/bin
-PM.Jellimix/PM.Jellimix/obj
+PM.Jellimix.ApplicationCore/bin
+PM.Jellimix.ApplicationCore/obj
+PM.Jellimix.Infrastructure/bin
+PM.Jellimix.Infrastructure/obj
+PM.Jellimix/bin
+PM.Jellimix/obj
