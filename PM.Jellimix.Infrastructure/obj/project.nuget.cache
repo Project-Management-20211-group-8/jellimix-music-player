@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9nNOfwaRWPen4VtOmrk0nkx36Aqg/43BwE6xE2JL8KKNSv3k8PiKtcr9TqxwcaaIWTL+mO0vhmRQzimEHaUOw==",
+  "success": true,
+  "projectFilePath": "D:\\University\\Project Management\\jellimix-music-player\\PM.Jellimix.Infrastructure\\PM.Jellimix.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

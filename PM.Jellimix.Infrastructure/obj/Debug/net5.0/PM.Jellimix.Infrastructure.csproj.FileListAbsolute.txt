@@ -1,0 +1,15 @@
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\PM.Jellimix.Infrastructure.deps.json
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\PM.Jellimix.Infrastructure.dll
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\ref\PM.Jellimix.Infrastructure.dll
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\PM.Jellimix.Infrastructure.pdb
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\PM.Jellimix.ApplicationCore.dll
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\bin\Debug\net5.0\PM.Jellimix.ApplicationCore.pdb
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.csproj.AssemblyReference.cache
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.AssemblyInfoInputs.cache
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.AssemblyInfo.cs
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.csproj.CoreCompileInputs.cache
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.csproj.CopyComplete
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.dll
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\ref\PM.Jellimix.Infrastructure.dll
+D:\University\Project Management\jellimix-music-player\PM.Jellimix.Infrastructure\obj\Debug\net5.0\PM.Jellimix.Infrastructure.pdb
